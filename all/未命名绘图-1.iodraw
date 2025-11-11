@@ -48,7 +48,7 @@
           <mxGeometry x="160" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OYyC1-lAwGhfHjlTv2EI-9" value="FRBSO性能评估结论及算法优势验证" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="630" width="170" height="40" as="geometry" />
+          <mxGeometry x="80" y="630" width="225" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
