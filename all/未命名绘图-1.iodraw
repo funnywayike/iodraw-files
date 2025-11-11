@@ -41,7 +41,7 @@
         <mxCell id="OYyC1-lAwGhfHjlTv2EI-3" value="SOTA对比&lt;div&gt;与*种先进算法比较：&lt;/div&gt;&lt;div&gt;T-NBDE、ABPEA、JayaX、BinCSA&lt;/div&gt;&lt;div&gt;评估指标：Hit，&lt;span style=&quot;background-color: initial;&quot;&gt;Std，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Gap，Time&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="85" y="460" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OYyC1-lAwGhfHjlTv2EI-5" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OYyC1-lAwGhfHjlTv2EI-5" value="统计检验&lt;div&gt;Wilcoxon符号秩检验&lt;/div&gt;&lt;div&gt;α=0.05&lt;/div&gt;&lt;div&gt;验证性能提升显著性&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
