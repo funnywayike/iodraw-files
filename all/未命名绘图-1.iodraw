@@ -33,8 +33,8 @@
         <mxCell id="MIAh2ylzSCaOEVDVNca7-1" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans&quot; color=&quot;#111827&quot;&gt;&lt;span style=&quot;font-size: 16px; letter-spacing: 0.32px; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;数据集准备&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OYyC1-lAwGhfHjlTv2EI-0" value="消融实验&lt;div&gt;验证三个核心机制贡献：&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="310" width="160" height="60" as="geometry" />
+        <mxCell id="OYyC1-lAwGhfHjlTv2EI-0" value="消融实验&lt;div&gt;验证三个核心机制贡献：&lt;/div&gt;&lt;div&gt;①环形拓扑信息交互&lt;/div&gt;&lt;div&gt;②分步变异策略&lt;/div&gt;&lt;div&gt;③连续解驱动校准&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="280" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
