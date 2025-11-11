@@ -21,7 +21,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="参数调优&lt;div&gt;敏感性分析：&lt;/div&gt;&lt;div&gt;p&lt;sub&gt;ring&lt;/sub&gt;，p&lt;sub&gt;flip，&lt;/sub&gt;p&lt;sub&gt;zero&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;确定最优参数配置&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="430" width="170" height="40" as="geometry" />
+          <mxGeometry x="135" y="370" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OYyC1-lAwGhfHjlTv2EI-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MIAh2ylzSCaOEVDVNca7-1" target="OYyC1-lAwGhfHjlTv2EI-0">
           <mxGeometry relative="1" as="geometry" />
@@ -33,7 +33,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OYyC1-lAwGhfHjlTv2EI-0" value="消融实验&lt;div&gt;验证三个核心机制贡献：&lt;/div&gt;&lt;div&gt;①环形拓扑信息交互&lt;/div&gt;&lt;div&gt;②分步变异策略&lt;/div&gt;&lt;div&gt;③连续解驱动校准&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="280" width="160" height="80" as="geometry" />
+          <mxGeometry x="140" y="250" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OYyC1-lAwGhfHjlTv2EI-3" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="540" width="120" height="60" as="geometry" />
