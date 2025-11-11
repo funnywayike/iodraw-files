@@ -1,0 +1,56 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="416" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MIAh2ylzSCaOEVDVNca7-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="实验整体框架" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OYyC1-lAwGhfHjlTv2EI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="OYyC1-lAwGhfHjlTv2EI-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="参数调优&lt;div&gt;敏感性分析：&lt;/div&gt;&lt;div&gt;p&lt;sub&gt;ring&lt;/sub&gt;，p&lt;sub&gt;flip，&lt;/sub&gt;p&lt;sub&gt;zero&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;确定最优参数配置&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="135" y="350" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OYyC1-lAwGhfHjlTv2EI-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MIAh2ylzSCaOEVDVNca7-1" target="OYyC1-lAwGhfHjlTv2EI-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MIAh2ylzSCaOEVDVNca7-1" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans&quot; color=&quot;#111827&quot;&gt;&lt;span style=&quot;font-size: 16px; letter-spacing: 0.32px; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;数据集准备&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OYyC1-lAwGhfHjlTv2EI-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OYyC1-lAwGhfHjlTv2EI-0" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYyC1-lAwGhfHjlTv2EI-0" value="消融实验&lt;div&gt;验证三个核心机制贡献：&lt;/div&gt;&lt;div&gt;①环形拓扑信息交互&lt;/div&gt;&lt;div&gt;②分步变异策略&lt;/div&gt;&lt;div&gt;③连续解驱动校准&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="250" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OYyC1-lAwGhfHjlTv2EI-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OYyC1-lAwGhfHjlTv2EI-3" target="OYyC1-lAwGhfHjlTv2EI-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYyC1-lAwGhfHjlTv2EI-3" value="SOTA对比&lt;div&gt;与*种先进算法比较：&lt;/div&gt;&lt;div&gt;T-NBDE、ABPEA、JayaX、BinCSA&lt;/div&gt;&lt;div&gt;评估指标：Hit，&lt;span style=&quot;background-color: initial;&quot;&gt;Std，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Gap，Time&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="85" y="460" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OYyC1-lAwGhfHjlTv2EI-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OYyC1-lAwGhfHjlTv2EI-5" target="OYyC1-lAwGhfHjlTv2EI-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYyC1-lAwGhfHjlTv2EI-5" value="统计检验&lt;div&gt;Wilcoxon符号秩检验&lt;/div&gt;&lt;div&gt;α=0.05&lt;/div&gt;&lt;div&gt;验证性能提升显著性&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OYyC1-lAwGhfHjlTv2EI-9" value="FRBSO性能评估结论及算法优势验证" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="107.5" y="630" width="225" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
