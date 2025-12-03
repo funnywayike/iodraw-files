@@ -40,21 +40,17 @@
         <mxCell id="PXPpMpgTKxzRIhK9PBOK-3" value="UFLP实验&lt;div&gt;OR-Library测试&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PXPpMpgTKxzRIhK9PBOK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PXPpMpgTKxzRIhK9PBOK-5" target="PXPpMpgTKxzRIhK9PBOK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PXPpMpgTKxzRIhK9PBOK-5" value="CFLP实验&lt;div&gt;UfliLib大规模测试&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PXPpMpgTKxzRIhK9PBOK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PXPpMpgTKxzRIhK9PBOK-7" target="PXPpMpgTKxzRIhK9PBOK-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="370" y="380" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="PXPpMpgTKxzRIhK9PBOK-7" value="物流配送中心案例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXPpMpgTKxzRIhK9PBOK-11" value="数据准备→模型构建→算法分析→对比分析→可视化展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="390" width="360" height="60" as="geometry" />
+          <mxGeometry x="40" y="350" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
