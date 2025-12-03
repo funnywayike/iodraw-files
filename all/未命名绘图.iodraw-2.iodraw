@@ -60,8 +60,8 @@
         <mxCell id="PXPpMpgTKxzRIhK9PBOK-7" value="物流配送中心案例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PXPpMpgTKxzRIhK9PBOK-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="350" width="160" height="60" as="geometry" />
+        <mxCell id="PXPpMpgTKxzRIhK9PBOK-11" value="数据准备→模型构建→算法分析→对比分析→可视化展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="350" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
