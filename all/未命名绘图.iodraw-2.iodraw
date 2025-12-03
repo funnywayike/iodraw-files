@@ -1,11 +1,65 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
-  <diagram name="第 1 页" id="L-T6OUuqoc7WOajLkpLr">
-    <mxGraphModel dx="2006" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2134" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="zdNnjSagpZkk8bMoDFiP-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="PXPpMpgTKxzRIhK9PBOK-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="实验开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PXPpMpgTKxzRIhK9PBOK-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PXPpMpgTKxzRIhK9PBOK-1" target="PXPpMpgTKxzRIhK9PBOK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PXPpMpgTKxzRIhK9PBOK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PXPpMpgTKxzRIhK9PBOK-1" target="PXPpMpgTKxzRIhK9PBOK-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="180" />
+              <mxPoint x="140" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PXPpMpgTKxzRIhK9PBOK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PXPpMpgTKxzRIhK9PBOK-1" target="PXPpMpgTKxzRIhK9PBOK-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="180" />
+              <mxPoint x="300" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PXPpMpgTKxzRIhK9PBOK-1" value="算法实现与开发&lt;div&gt;BPSO/DE/BSO/IBSO&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PXPpMpgTKxzRIhK9PBOK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PXPpMpgTKxzRIhK9PBOK-3" target="PXPpMpgTKxzRIhK9PBOK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PXPpMpgTKxzRIhK9PBOK-3" value="UFLP实验&lt;div&gt;OR-Library测试&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PXPpMpgTKxzRIhK9PBOK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PXPpMpgTKxzRIhK9PBOK-5" target="PXPpMpgTKxzRIhK9PBOK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PXPpMpgTKxzRIhK9PBOK-5" value="CFLP实验&lt;div&gt;UfliLib大规模测试&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PXPpMpgTKxzRIhK9PBOK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PXPpMpgTKxzRIhK9PBOK-7" target="PXPpMpgTKxzRIhK9PBOK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PXPpMpgTKxzRIhK9PBOK-7" value="物流配送中心案例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PXPpMpgTKxzRIhK9PBOK-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PXPpMpgTKxzRIhK9PBOK-11" target="PXPpMpgTKxzRIhK9PBOK-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PXPpMpgTKxzRIhK9PBOK-11" value="数据准备→模型构建→算法分析→对比分析→可视化展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="340" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PXPpMpgTKxzRIhK9PBOK-18" value="实验结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="185" y="435" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
