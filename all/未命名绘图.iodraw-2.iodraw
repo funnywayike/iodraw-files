@@ -12,9 +12,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ajT6EvNvOMg3VSNZOhTc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PXPpMpgTKxzRIhK9PBOK-1" target="ajT6EvNvOMg3VSNZOhTc-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PXPpMpgTKxzRIhK9PBOK-1" value="算法实现与开发&lt;div&gt;BPSO/DE/BSO/IBSO&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="287" y="145" width="120" height="60" as="geometry" />
         </mxCell>
@@ -56,6 +53,9 @@
         </mxCell>
         <mxCell id="ajT6EvNvOMg3VSNZOhTc-13" value="研究结论/成果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="287" y="776" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ajT6EvNvOMg3VSNZOhTc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ajT6EvNvOMg3VSNZOhTc-16" target="PXPpMpgTKxzRIhK9PBOK-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ajT6EvNvOMg3VSNZOhTc-16" value="问题定义与建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="287" y="5" width="120" height="60" as="geometry" />
