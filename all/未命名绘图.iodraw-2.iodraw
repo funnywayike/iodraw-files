@@ -57,7 +57,7 @@
         <mxCell id="ajT6EvNvOMg3VSNZOhTc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ajT6EvNvOMg3VSNZOhTc-16" target="PXPpMpgTKxzRIhK9PBOK-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ajT6EvNvOMg3VSNZOhTc-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ajT6EvNvOMg3VSNZOhTc-18">
+        <mxCell id="ajT6EvNvOMg3VSNZOhTc-19" value="明确UFLP/CFLP的数学模型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ajT6EvNvOMg3VSNZOhTc-18">
           <mxGeometry x="-0.1404" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
