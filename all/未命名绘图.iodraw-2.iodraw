@@ -16,7 +16,7 @@
           <mxGeometry x="287" y="145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXPpMpgTKxzRIhK9PBOK-3" value="CFLP实验、UFLP实验、物流配送中心案例" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="284" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="287" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajT6EvNvOMg3VSNZOhTc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PXPpMpgTKxzRIhK9PBOK-11" target="PXPpMpgTKxzRIhK9PBOK-3">
           <mxGeometry relative="1" as="geometry" />
@@ -27,12 +27,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PXPpMpgTKxzRIhK9PBOK-11" value="实验设计与数据准备" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="287" y="225" width="120" height="60" as="geometry" />
+          <mxGeometry x="287" y="241" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajT6EvNvOMg3VSNZOhTc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ajT6EvNvOMg3VSNZOhTc-1" target="ajT6EvNvOMg3VSNZOhTc-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ajT6EvNvOMg3VSNZOhTc-1" value="模型构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ajT6EvNvOMg3VSNZOhTc-1" value="结果收集与处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="287" y="426" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajT6EvNvOMg3VSNZOhTc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ajT6EvNvOMg3VSNZOhTc-3" target="ajT6EvNvOMg3VSNZOhTc-7">
