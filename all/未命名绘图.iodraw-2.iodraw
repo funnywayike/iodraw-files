@@ -45,7 +45,7 @@
         <mxCell id="ajT6EvNvOMg3VSNZOhTc-7" value="对比分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="287" y="595" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ajT6EvNvOMg3VSNZOhTc-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ajT6EvNvOMg3VSNZOhTc-9" value="可视化展示实验结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="287" y="735" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
