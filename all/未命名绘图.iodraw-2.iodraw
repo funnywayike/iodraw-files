@@ -21,8 +21,14 @@
         <mxCell id="PXPpMpgTKxzRIhK9PBOK-3" value="CFLP实验、UFLP实验、物流配送中心案例" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="287" y="247" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ajT6EvNvOMg3VSNZOhTc-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PXPpMpgTKxzRIhK9PBOK-11" target="ajT6EvNvOMg3VSNZOhTc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PXPpMpgTKxzRIhK9PBOK-11" value="数据准备→模型构建→算法分析→对比分析→可视化展示" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="172" y="471" width="360" height="60" as="geometry" />
+          <mxGeometry x="167" y="399" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ajT6EvNvOMg3VSNZOhTc-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="287" y="539" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
