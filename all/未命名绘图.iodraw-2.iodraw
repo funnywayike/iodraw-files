@@ -41,20 +41,8 @@
         <mxCell id="ajT6EvNvOMg3VSNZOhTc-3" value="性能对比分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="287" y="508" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ajT6EvNvOMg3VSNZOhTc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ajT6EvNvOMg3VSNZOhTc-7" target="ajT6EvNvOMg3VSNZOhTc-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ajT6EvNvOMg3VSNZOhTc-7" value="对比分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ajT6EvNvOMg3VSNZOhTc-7" value="可视化结论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="287" y="595" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ajT6EvNvOMg3VSNZOhTc-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ajT6EvNvOMg3VSNZOhTc-9" target="ajT6EvNvOMg3VSNZOhTc-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ajT6EvNvOMg3VSNZOhTc-9" value="可视化展示实验结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="287" y="689" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ajT6EvNvOMg3VSNZOhTc-13" value="研究结论/成果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="287" y="776" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajT6EvNvOMg3VSNZOhTc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ajT6EvNvOMg3VSNZOhTc-16" target="PXPpMpgTKxzRIhK9PBOK-1">
           <mxGeometry relative="1" as="geometry" />
