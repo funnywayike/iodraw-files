@@ -27,8 +27,14 @@
         <mxCell id="PXPpMpgTKxzRIhK9PBOK-11" value="数据准备→模型构建→算法分析→对比分析→可视化展示" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="167" y="343" width="360" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ajT6EvNvOMg3VSNZOhTc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ajT6EvNvOMg3VSNZOhTc-1" target="ajT6EvNvOMg3VSNZOhTc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ajT6EvNvOMg3VSNZOhTc-1" value="模型构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="289" y="448" width="120" height="60" as="geometry" />
+          <mxGeometry x="287" y="445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ajT6EvNvOMg3VSNZOhTc-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="287" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
