@@ -15,11 +15,6 @@
         <mxCell id="ajT6EvNvOMg3VSNZOhTc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PXPpMpgTKxzRIhK9PBOK-1" target="PXPpMpgTKxzRIhK9PBOK-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ajT6EvNvOMg3VSNZOhTc-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ajT6EvNvOMg3VSNZOhTc-20">
-          <mxGeometry x="-0.2451" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PXPpMpgTKxzRIhK9PBOK-1" value="算法实现与开发&lt;div&gt;BPSO/DE/BSO/IBSO&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="287" y="145" width="120" height="60" as="geometry" />
         </mxCell>
@@ -32,7 +27,7 @@
         <mxCell id="ajT6EvNvOMg3VSNZOhTc-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PXPpMpgTKxzRIhK9PBOK-11" target="ajT6EvNvOMg3VSNZOhTc-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PXPpMpgTKxzRIhK9PBOK-11" value="数据准备" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="PXPpMpgTKxzRIhK9PBOK-11" value="实验设计与数据准备" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="287" y="242" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajT6EvNvOMg3VSNZOhTc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ajT6EvNvOMg3VSNZOhTc-1" target="ajT6EvNvOMg3VSNZOhTc-3">
